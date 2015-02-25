@@ -1,20 +1,17 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
-date:   2014-04-25 16:54:46
-author: Marcel Newman
+title:  "Personal Blog"
+date:   2014-01-21 16:54:46
+author: Rudi Prihandoko
 categories:
 - project
-img: portfolio_01.jpg
+img: https://scontent-sin.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/p228x119/11021107_1598148903752027_5737808400546487855_n.png?oh=7e89b703304e7aa3661c8165c973836a&oe=55928E72
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
-client: Wonder Corp.
-website: http://blacktie.co
+- https://scontent-sin.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/11029490_1598148097085441_8133680184145912400_n.png?oh=dc8add8e059c407bc875621bafc1cd86&oe=554F7618
+- https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/s720x720/10351336_1598148130418771_5957371037385405887_n.png?oh=7d453f4bb700998138c12a06ad1aed7f&oe=55507C5D&__gda__=1434536950_b4d5e313f2201fe3c354653382080701
+- https://scontent-sin.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/s720x720/11025798_1598148153752102_2297710107513239328_n.png?oh=5aa6ac0ced555caad1b8e60ae3088da5&oe=5591C211
+client: Rudi Prihandoko
+website: http://rudi.prihandoko.id
 ---
-####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+####Personal Blog
+The Client ask us to design an elegant personal blog. They asked to build a simple minimalist theme, but at the same time is eye catching. So we proposed several themes, one with fixed navigation sidebar and one with themes that places content first by tucking away navigation in a hidden drawer. Take his time for a while, he chose the fixed sidebar on the left. 
