@@ -12,7 +12,7 @@ This theme can be customized, built and published straight from GitHub, thanks t
 Most general settings and data like site name, colors, address, etc. can be configured and changed right in the main config file: `/_config.yml`
 The content of the Home page can be changed here: `/home.html`
 The content of the About page can be changed here: `/about.html`
-The content of the Portfolio page can be changed here:`/portfolio.html`
+The content of the Product page can be changed here:`/product.html`
 The content of the Contact page can be changed here:`/contact.html`
 ####Add content  
 Delete the demo content and publish your own content.
@@ -37,7 +37,7 @@ This text will appear in the excerpt "post preview" on the Blog page that lists 
 This text will not be shown in the excerpt because it is after the excerpt separator.
 ```
 #####Project post
-Create a Project post to go in your Portfolio by creating a file called `yyyy-mm-dd-name-of-the-project.markdown` in the `/_posts/project/` directory with the following template:
+Create a Project post to go in your Product by creating a file called `yyyy-mm-dd-name-of-the-project.markdown` in the `/_posts/project/` directory with the following template:
 ```markdown
 ---
 layout: project       #important: don't change this
@@ -46,7 +46,7 @@ date: yyyy-mm-dd hh:mm:ss
 author: Name
 categories:
 - project             #important: leave this here
-img: portfolio_10.jpg #place image (600x450) with this name in /assets/img/project/
+img: product_10.jpg #place image (600x450) with this name in /assets/img/project/
 thumb: thumb02.jpg
 carousel:
 - single01.jpg        #place image (1280x600) with this name in /assets/img/project/carousel/

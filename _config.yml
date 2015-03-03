@@ -81,14 +81,12 @@ members:
   
 # Clients information. Shown on Home and About pages.
 clients:
-  - name: 
-    img: 
-  - name: 
-    img: 
-  - name: 
-    img: 
-  - name: 
-    img: 
+  - name: eiger
+    img: client01.png
+  - name: bodypack
+    img: client02.png
+  - name: kalibre
+    img: client03.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "Kami melayani apa saja yang anda butuhkan, baik design, maupun cetak "
