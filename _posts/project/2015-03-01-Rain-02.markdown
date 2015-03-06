@@ -1,0 +1,30 @@
+---
+layout: project
+title:  "Rain 02"
+date:   2015-03-1 00:00:00
+categories:
+- project
+- backpack
+- school
+img: 2140_low.jpg
+thumb: 2140_low.jpg
+carousel:
+- 2140_low.jpg
+client: Eiger
+description: "School Daypack" 
+size: "47 X 32 X 18"
+fabrics: [" Ny Cordura 400TD", "Ny New Chembrey"]
+features:  
+- 2 compartments
+- 2 Front pocket
+- Quick access pocket
+- Organizer
+- Front reflective
+backsystem: "Air Stripes 2.0"
+color: 
+- Dark Grey-Black
+- Grey-Black
+price:
+stocks:
+popularity: 1
+---

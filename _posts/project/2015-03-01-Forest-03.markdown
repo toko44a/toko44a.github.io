@@ -1,0 +1,32 @@
+---
+layout: project
+title:  "Forest 03"
+date:   2015-03-1 00:00:00
+categories:
+- project
+- laptop
+- backpack
+- daily
+img: thumb2146_low.jpg
+thumb: thumb2146_low.jpg
+carousel:
+- 2146_low.jpg
+client: Eiger
+description: "Laptop 14 Backpack" 
+size: "45 X 32 X 21"
+fabrics: ["Ny Raindrops 100/210D", "Polyester 630D"]
+features:  
+- 2 compartments
+- 1 Front pocket
+- 2 Side pockets
+- Organizer
+- Laptop sleeve
+- Rain cover
+color: 
+- All-Black
+- Dark Grey-Black
+- Cobalt Blue-Black
+price:
+stocks:
+popularity: 1
+---

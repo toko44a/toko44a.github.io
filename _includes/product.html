@@ -12,17 +12,17 @@
                                 <a data-rel="prettyPhoto" href="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
                                 <a href="{{  project.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
                                 <h3 class="a1" data-animate="fadeInUp">IDR {{ project.price }} </h3>
-                                {% if project.status == 0 %}
+                                {% if project.stocks == 0 %}
                                 <h3 class="a1" data-animate="fadeInUp" id="sold">
                                     SOLD OUT! 
                                 </h3>
-                                {% elsif project.status == -1 %}
+                                {% elsif project.stocks == -1 %}
                                 <h3 class="a1" data-animate="fadeInUp" id="restock">
                                     WE'RE RESTOCKING
                                 </h3>
-                                {% elsif project.status > 0 %}
+                                {% elsif project.stocks > 0 %}
                                 <h3 class="a1" data-animate="fadeInUp" id="stock">
-                                    {{ project.status }} pc(s) left.
+                                    {{ project.stocks }} pc(s) left.
                                 </h3>
                                 {% else %}
                                 <h3 class="a1" data-animate="fadeInUp" id="stock">

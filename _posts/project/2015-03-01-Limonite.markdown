@@ -1,0 +1,28 @@
+---
+layout: project
+title:  "Limonite"
+date:   2015-03-1 00:00:00
+categories:
+- project
+- laptop
+- backpack
+img: 2147_Low.jpg
+thumb: 2147_Low.jpg
+carousel:
+- 2147_Low.jpg
+client: Eiger
+description: "School Daypack"
+size: "46 X 32 X 19"
+fabrics: ["Poly 600D", "Cordura 400TD"]
+features:  
+- 3 compartments
+- Organizer
+- 2 Side pockets
+- Laptop sleeve
+backsystem: "Air Stripe 2.0"
+color: 
+- Dark Grey-Black
+price:
+stocks:
+popularity: 3
+---

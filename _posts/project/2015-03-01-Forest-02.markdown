@@ -1,0 +1,30 @@
+---
+layout: project
+title:  "Forest 02"
+date:   2015-03-1 00:00:00
+categories:
+- project
+- laptop
+- backpack
+- daily
+img: thumb2145_low.jpg
+thumb: thumb2145_low.jpg
+carousel:
+- 2145_low.jpg
+client: Eiger
+description: "Daily Backpack" 
+size: "45 X 30 X 16"
+fabrics: ["Ny Raindrops 100/210D", "Polyester 630D"]
+features:  
+- 2 compartments
+- 1 Front pocket
+- 2 Side pockets
+- Organizer
+color: 
+- All-Black
+- Dark Grey-Black
+- Cobalt Blue-Black
+price:
+stocks:
+popularity: 1
+---

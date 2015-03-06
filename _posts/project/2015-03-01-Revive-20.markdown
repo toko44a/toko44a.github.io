@@ -1,0 +1,26 @@
+---
+layout: project
+title:  "Revive 2.0
+date:   2015-03-1 00:00:00
+categories:
+- daypack
+img: 2153_low.jpg
+thumb: 2153_low.jpg
+carousel:
+- 2153_low.jpg
+client: Eiger
+description: "Daypack" 
+size: "48 X 28 X 18"
+fabrics: ["Ny Dobby 400"]
+features:  
+- 2 compartments
+- 2 Side pocket
+- Organizer
+color: 
+- Red
+- Blue
+- Green
+price:
+stocks:
+popularity: 1
+---

@@ -1,0 +1,30 @@
+---
+layout: project
+title:  "Forest 01"
+date:   2015-03-1 00:00:00
+categories:
+- project
+- laptop
+- backpack
+- daily
+img: 2144_Low.jpg
+thumb: 2144_Low.jpg
+carousel:
+- 2144_Low.jpg
+client: Eiger
+description: "Daily Backpack" 
+size: "42 X 28 X 14"
+fabrics: ["Ny Raindobby", "Polyester 630D"]
+features:  
+- 2 compartments
+- 1 Front pocket
+- 2 Side pockets
+- Organizer
+color: 
+- All-Black
+- Dark Grey-Black
+- Blue-Black
+price:
+stocks:
+popularity: 1
+---

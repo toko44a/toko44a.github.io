@@ -1,0 +1,22 @@
+---
+layout: project
+title:  "7300"
+date:   2015-03-1 00:00:00
+categories:
+- project
+- pouch
+img: 7300.jpg
+thumb: 7300.jpg
+carousel:
+- 7300.jpg
+client: Eiger
+description: 
+size: 
+fabrics:
+features:
+color: 
+price:
+stocks:
+popularity: 1
+---
+Little pouch can't harm you.
