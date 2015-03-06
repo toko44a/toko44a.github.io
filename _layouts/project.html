@@ -22,12 +22,23 @@ layout: default
             <div class="spacing"></div>
             <h4>Product Details</h4>
             <div class="hline"></div>
-            <p><b>Date:</b> {{ page.date | date: "%b %-d, %Y" }}</p>
-            <p><b>Author:</b> {{ page.author }}</p>
-            <p><b>Categories:</b> {{ page.categories }}</p>
             <p><b>Tagged:</b> Flat, UI, Development</p>
             <p><b>Brand:</b> {{ page.client }}</p>
-
+            <p>
+                <b>Colors:</b>
+                {% if page.colors.size == 1 %} 
+                    {{ page.colors.first }}
+                {% elsif page.colors.size > 1 %}
+                    {% for color in page.colors %} 
+                        <li>
+                            {{ color }} 
+                        </li>
+                    {% endfor %} 
+                {% else %}
+                    Not Available
+                {% endif %}
+            </p>
+            <p><b>Size:</b> {{ page.size }}</p>
         </div>
     </div><! --/row -->
 </div><! --/container -->

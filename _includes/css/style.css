@@ -296,7 +296,9 @@ a:focus {
 	background-color:rgba({{ site.colors.primary_rgb }},.9);
 	text-align:center;
 }
-
+#project-title {
+	padding-top: 40px;
+}
 /* Testimonials Wrap */
 #twrapback {
     background-color: {{ site.colors.primary }};

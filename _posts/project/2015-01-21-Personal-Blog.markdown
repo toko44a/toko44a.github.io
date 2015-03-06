@@ -14,7 +14,7 @@ client: Eiger
 website: http://eigeradventure.com
 description: "Great narrow profile and Stability Body Shape system means the 8.5L will stay with your body no matter what the angle or drop."
 color: [grey, orange]
-size: [40.5 x 14 x 14]
+size: 40.5 x 14 x 14
 features: [Waterproof Main Compartment Zipper, Waterproof, Zipped, Front Vertical Pocket, Twin Exterior Water Bottle Pockets, Compression Straps, Adjustable Sternum Straps, Super Grip Zipper Pulls, Internal Hydration Clips & Bladder Pocket, Stability Back System St, Fully Bound Interior Seams]
 ---
 ####Personal Blog
