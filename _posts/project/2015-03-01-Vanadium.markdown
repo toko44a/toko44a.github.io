@@ -1,23 +1,25 @@
 ---
 layout: project
-title:  "Limonite"
+title:  "Vanadium"
 date:   2015-03-1 00:00:00
 categories:
 - project
-- laptop
+- school
+- daypack
 - backpack
-img: 2147_Low.jpg
-thumb: 2147_Low.jpg
+img: 2149_ALow.jpg
+thumb: 2149_ALow.jpg
 carousel:
-- 2147_Low.jpg
+- 2149_ALow.jpg
 client: Eiger
 description: "School Daypack"
-size: "42 X 28 X 17"
+size: "45 X 30 X 20"
 fabrics: ["Poly 630D"]
 features:  
 - 2 compartments
-- Front zipper
+- Organizer
 - 2 side pockets
+- Front zipper
 color: 
 - Red-Grey
 - Black-Grey

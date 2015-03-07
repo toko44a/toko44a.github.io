@@ -1,0 +1,28 @@
+---
+layout: project
+title:  "Insecto 02"
+date:   2015-03-1 00:00:00
+categories:
+- project
+- school
+- daypack
+- backpack
+img: 2143_B_Low.jpg.jpg
+thumb: 2143_B_Low.jpg.jpg
+carousel:
+- 2143_B_Low.jpg
+client: Eiger
+description: "School Daypack"
+size: "45 X 30 X 19"
+fabrics: ["Ny Cordura 400TD", "Poly 630D"]
+features:  
+- 2 compartments
+- 2 side pockets
+- Organizer
+color: 
+- Dark Grey-Grey
+- Black-Dark Grey
+price:
+stocks:
+popularity: 1
+---
